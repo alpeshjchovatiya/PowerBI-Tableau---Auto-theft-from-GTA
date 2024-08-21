@@ -3,9 +3,8 @@
 
 ## Author: Alpesh Chovatiya
 ## Dataset Info:
-This dataset is about Cars stolen from Greater Toronto Area between Years 2013 tp 2023.
-## Source: 
-https://data.torontopolice.on.ca               
+This dataset is about Cars stolen from Greater Toronto Area between Years 2013 to 2023.
+## Source: https://data.torontopolice.on.ca               
 Rows: 58672
 Columns: 14 
 <pre>
