@@ -1,13 +1,11 @@
-# PowerBI-Tableau---Auto-theft-from-GTA
+# PowerBI and Tableau ---> Auto-theft-from-GTA
 ## Data-Visualisation
-## Tableau:
-Tableau is Leading Data visualization tool.
-Version: 2022.2.0
+
 ## Author: Alpesh Chovatiya
 ## Dataset Info:
 This dataset is about Cars stolen from Greater Toronto Area between Years 2013 tp 2023.
 ## Source: 
-https://data.torontopolice.on.ca
+https://data.torontopolice.on.ca               
 Rows: 58672
 Columns: 14 
 <pre>
@@ -42,7 +40,7 @@ This Bar chart shows Top 10 Locations for Auto theft from year 2013 to 2023.
 ![Top 10 Locations - Auto theft](https://github.com/user-attachments/assets/732401f0-5e82-4789-a3d6-dae34e187edf)
 
 ## Image4: Top N years for different Neighbourhoods
-This Chart shows Top N years for different Neighbourhoods. 
+This Stacked Bar chart shows Top N years for different Neighbourhoods. 
 ![Top N Years - Different Neighbourhood (2)](https://github.com/user-attachments/assets/d2c429cf-f151-4e38-8c16-8e853b7e8099)
 
 ## Image5: Auto theft by different Premises types
@@ -50,7 +48,7 @@ This Pie Chart shows Auto theft by different Premises types.
 ![Auto theft by different Premises Types](https://github.com/user-attachments/assets/dc8ccbd1-139c-4851-8e9e-d836c4a3256e)
 
 ## Image6: Auto theft by Top N different Neighbourhoods
-This Chart shows Auto theft by Top N different Neighbourhoods. 
+This Treemap shows Auto theft by Top N different Neighbourhoods. 
 ![Top N Neighbourhood (3)](https://github.com/user-attachments/assets/88e302e9-3a75-4358-87cc-52f0034b4400)
 
 ## Image7: Tableau Dashboard - Auto theft in GTA from 2013 - 2023
