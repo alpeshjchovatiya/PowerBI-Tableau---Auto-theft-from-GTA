@@ -28,7 +28,7 @@ Columns: 14
 
 ## Image1: PowerBI Dashboard - Auto theft in GTA from 2013 - 2023
 This PowerBI Dashboard shows Top Divisions, Top Locations, Top Premises type, and Top Neighbourhood for Auto theft in Greater Toronto Area from year 2013 to 2023. 
-![Power BI Dashboard](https://github.com/user-attachments/assets/bcd5f80f-3a6f-4cde-9a09-fc0a59a9e2fa)
+![Screenshot (1062)](https://github.com/user-attachments/assets/20f9a9b1-5e26-4239-a6b5-05632f00d64b)
 
 ## Image2: Auto theft in GTA from 2013 - 2023
 This Line chart shows Auto theft in Greater Toronto Area from year 2013 to 2023. 
