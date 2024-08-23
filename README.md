@@ -32,25 +32,26 @@ This PowerBI Dashboard shows Top Divisions, Top Locations, Top Premises type, an
 
 ## Image2: Auto theft in GTA from 2013 - 2023
 This Line chart shows Auto theft in Greater Toronto Area from year 2013 to 2023. 
-![Auto Theft in GTA (2013 to 2023)](https://github.com/user-attachments/assets/4d3cdf14-9adc-4ff9-9c8a-49e843df16dc)
+![Auto Theft in GTA (2013 to 2023)](https://github.com/user-attachments/assets/a7773369-04ec-4280-93ff-91656bbf47b2)
+
 
 ## Image3: Top 10 Locations for Auto theft
 This Bar chart shows Top 10 Locations for Auto theft from year 2013 to 2023.
-![Top 10 Locations - Auto theft](https://github.com/user-attachments/assets/732401f0-5e82-4789-a3d6-dae34e187edf)
+![Top 10 Locations - Auto theft](https://github.com/user-attachments/assets/20855945-6788-4a0c-af35-aec4bf719d19)
+
 
 ## Image4: Top N years for different Neighbourhoods
 This Stacked Bar chart shows Top N years for different Neighbourhoods. 
-![Top N Years - Different Neighbourhood (2)](https://github.com/user-attachments/assets/d2c429cf-f151-4e38-8c16-8e853b7e8099)
+![Top N Years - Different Neighbourhood](https://github.com/user-attachments/assets/a76ed043-9c86-4210-af65-0b11fbfddeef)
+
 
 ## Image5: Auto theft by different Premises types
 This Pie Chart shows Auto theft by different Premises types.
-![Auto theft by different Premises Types](https://github.com/user-attachments/assets/dc8ccbd1-139c-4851-8e9e-d836c4a3256e)
+![Auto theft by different Premises Types](https://github.com/user-attachments/assets/661522b9-136b-4b61-af6c-409aa7f8a144)
 
-## Image6: Auto theft by Top N different Neighbourhoods
-This Treemap shows Auto theft by Top N different Neighbourhoods. 
-![Top N Neighbourhood (3)](https://github.com/user-attachments/assets/88e302e9-3a75-4358-87cc-52f0034b4400)
 
-## Image7: Tableau Dashboard - Auto theft in GTA from 2013 - 2023
-This Tableau Dashboard shows Auto theft in GTA from 2013 - 2023, Top N years, Top N different Neighbourhoods, and Auto theft by different Premises types.
-![Autotheft_Dashboard](https://github.com/user-attachments/assets/3dba5e6c-7685-450a-a515-ae1ac6f3d5cb)
+## Image6: Tableau Dashboard - Auto theft in GTA from 2013 - 2023
+This Tableau Dashboard shows Auto theft in GTA from 2013 - 2023, Top 10 Locations for Auto theft, Top N years for different Neighbourhoods, and Auto theft by different Premises types.
+![Auto theft - GTA](https://github.com/user-attachments/assets/08825b4e-cdba-4ab3-954d-97bdbd3eb7e3)
+
 
