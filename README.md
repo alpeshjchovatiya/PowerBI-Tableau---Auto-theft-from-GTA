@@ -37,7 +37,8 @@ This Line chart shows Auto theft in Greater Toronto Area from year 2013 to 2023.
 
 ## Image3: Top 10 Locations for Auto theft
 This Bar chart shows Top 10 Locations for Auto theft from year 2013 to 2023.
-![Top 10 Locations - Auto theft](https://github.com/user-attachments/assets/20855945-6788-4a0c-af35-aec4bf719d19)
+![Top 10 Locations - Auto theft](https://github.com/user-attachments/assets/54276d9c-f594-46d6-8b16-3485b6c9fb23)
+
 
 
 ## Image4: Top N years for different Neighbourhoods
